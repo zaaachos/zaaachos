@@ -1,7 +1,4 @@
 ### Welcome to my profile 👀
 
-<details>
-  <summary> Github Stats </summary>
-  
-  <img align="left" alt="zaaachos Github Stats" src="https://zaaachos.vercel.app/api?username=zaaachos" />
-</details> 
+
+[![Anurag's github stats](https://zaaachos.vercel.app/api?username=zaaachos)](https://github.com/zaaachos/zaaachos)
