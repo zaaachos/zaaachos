@@ -1,4 +1,4 @@
 ### Welcome to my profile 👀
 
+<img align="left" alt="ok" src="https://zaaachos.zaaachos.vercel.app/api?username=zaaachos&show_icons=true&hide_border=true" />
 
-[![Anurag's github stats](https://zaaachos.vercel.app/api?username=zaaachos)](https://github.com/zaaachos/zaaachos)
