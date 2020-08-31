@@ -4,7 +4,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaaachos" alt="zaaachos" /> </p>
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></p><p align="center">
+<p align="center">
 <a href="https://twitter.com/https://twitter.com/doubleucheese" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/doubleucheese" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/giorgos zachariadis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="giorgos zachariadis" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14196193/zaaachos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/14196193/zaaachos" height="30" width="30" /></a>
