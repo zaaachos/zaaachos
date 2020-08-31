@@ -4,8 +4,13 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaaachos" alt="zaaachos" /> </p>
-<p align="center">
-<a href="https://linkedin.com/in/giorgos-zachariadis-1b6a8b186" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="giorgos zachariadis" height="30" width="30" /></a>
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></p><p align="center">
+<a href="https://twitter.com/https://twitter.com/doubleucheese" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/doubleucheese" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/giorgos zachariadis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="giorgos zachariadis" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14196193/zaaachos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/14196193/zaaachos" height="30" width="30" /></a>
+<a href="https://fb.com/https://www.facebook.com/george.zachariadis.1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/george.zachariadis.1/" height="30" width="30" /></a>
+<a href="https://instagram.com/https://www.instagram.com/g.zachoos/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/g.zachoos/" height="30" width="30" /></a>
+</p>
 
 <details>
   <summary> My Github Stats </summary>
