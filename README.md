@@ -6,7 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zaaachos" alt="zaaachos" /> </p>
 <h2 align="center"> Social Media </h2>
 <p align="center"> 
-<a href="https://twitter.com/doubleucheese" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/zaaachos" height="30" width="30" /></a>
+<a href="https://twitter.com/zaaachos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/zaaachos" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/giorgos-zachariadis/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="giorgos zachariadis" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/14196193/zaaachos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/14196193/zaaachos" height="30" width="30" /></a>
 <a href="https://www.facebook.com/george.zachariadis.1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/george.zachariadis.1/" height="30" width="30" /></a>
