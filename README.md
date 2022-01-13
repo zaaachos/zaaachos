@@ -4,7 +4,7 @@
 <h2 align='center'>SKILLS</h2>
 <br>
 <h3> PROGRAMMING </h3>
-<h4> Proficient </h4>
+* <h4> Proficient </h4>
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
