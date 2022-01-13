@@ -4,19 +4,19 @@
 <h2 align='center'>SKILLS</h2>
 <br>
 <h3> PROGRAMMING </h3>
-* <h4> Proficient </h4>
+<h4> • Proficient </h4>
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
 </p>
-<h4> Experienced </h4>
+<h4>  • Experienced </h4>
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 </p>
-<h4> Familiar </h4>
+<h4>  • Familiar </h4>
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="c" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" alt="cplusplus" width="40" height="40"/>
