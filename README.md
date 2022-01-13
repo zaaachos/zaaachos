@@ -1,6 +1,6 @@
 <h2 align="center">I'm majoring in CS studies in AUEB ( Department of Informatics ).</h2> 
 <br> 
-<h3> I am interested in AI/ML/DL projects and Android Development.
+<h3 align="center"> I am interested in AI/ML/DL projects and Android Development.
 <br> 
 Skills: </h3>
 
