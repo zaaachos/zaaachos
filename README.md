@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Giorgos</h1>
 <h3 align="center">I'm majoring in CS studies @ AUEB ( Department of Informatics ). I'm interested in AI/ML/DL/DS related projects with a passion for computer vision. I enjoy developing Android applications, as well.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaaachos&label=Profile%20views&color=0e75b6&style=flat" alt="zaaachos" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaaachos" alt="zaaachos" /></a> </p>
-
 - 🔭 I’m currently working on **my thesis**
 
 - 🌱 I’m currently learning **PyTorch**
