@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giorgos</h1>
-<h3 align="center">A passionate ML/DL/DS developer with knowledge in computer vision</h3>
+<h3 align="center">I'm majoring in CS studies @ AUEB ( Department of Informatics ). I'm interested in AI/ML/DL/DS related projects with a passion for computer vision. I enjoy developing Android applications, as well.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaaachos&label=Profile%20views&color=0e75b6&style=flat" alt="zaaachos" /> </p>
 
