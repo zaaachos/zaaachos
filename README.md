@@ -5,6 +5,10 @@
 <h3>Things I code with</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python" />
+  <img alt="Python" src="https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=java" />
+  <img alt="Python" src="https://img.shields.io/badge/Kotlin-yellow?style=for-the-badge&logo=kotlin" />
+  <img alt="Python" src="https://img.shields.io/badge/Tensorflow-yellow?style=for-the-badge&logo=tensorflow" />
+  <img alt="Python" src="https://img.shields.io/badge/PyTorch-yellow?style=for-the-badge&logo=pytorch" />
 </p>
 
 ------------
