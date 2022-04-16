@@ -4,7 +4,7 @@
 <p>Welcome to my page! </br> I'm Giorgos and I'm from <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/313/flag-greece_1f1ec-1f1f7.png" width="20"/>, currently majoring in CS studies @ AUEB ( Department of Informatics ). I'm interested in AI/ML/DL/DS related projects with passion for computer vision. I enjoy developing Android applications, as well. </p>
 <h3>Things I code with</h3>
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python" />
   <img alt="Python" src="https://img.shields.io/badge/Java-critical?style=for-the-badge&logo=java" />
   <img alt="Python" src="https://img.shields.io/badge/Kotlin-blueviolet?style=for-the-badge&logo=kotlin" />
   <img alt="Python" src="https://img.shields.io/badge/Tensorflow-red?style=for-the-badge&logo=tensorflow" />
