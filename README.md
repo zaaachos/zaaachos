@@ -11,8 +11,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zaaachos" alt="zaaachos" /> </p>
 <details>
   <summary> My Github Stats </summary>
-    [![zaaachos Github Stats](https://github-readme-stats.vercel.app/api?username=zaaachos&show_icons=true&theme=tokyonight&hide=contribs,prs)]
+    [![zaaachos' GitHub stats](https://github-readme-stats.vercel.app/api?username=zaaachos)](https://github.com/zaaachos/github-readme-stats)
 </details>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
