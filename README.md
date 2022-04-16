@@ -32,4 +32,4 @@
 </p>
 
 ------------
-<p align="center"><img src="https://github.com/zaaachos/zaaachos/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/zaaachos/zaaachos?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/zaaachos/zaaachos?style=flat-square&labelColor=343b41"/></p>
+
