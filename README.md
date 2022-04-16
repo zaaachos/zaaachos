@@ -35,5 +35,5 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zaaachos" alt="zaaachos" /> </p>
 <details>
   <summary> My Github Stats </summary>
-    ![zaaachos Github Stats](https://github-readme-stats.vercel.app/api?username=zaaachos&show_icons=true&theme=tokyonight&hide=contribs,prs)
+    [zaaachos Github Stats](https://github-readme-stats.vercel.app/api?username=zaaachos&show_icons=true&theme=tokyonight&hide=contribs,prs)
 </details>
