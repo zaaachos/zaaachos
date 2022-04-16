@@ -11,7 +11,6 @@
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-orange?style=for-the-badge&logo=pytorch" />
 </p>
 
-------------
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - 💻 I'm currently working on my BSc Thesis
