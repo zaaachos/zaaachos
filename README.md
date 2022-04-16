@@ -10,6 +10,12 @@
   <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-red?style=for-the-badge&logo=tensorflow" />
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-orange?style=for-the-badge&logo=pytorch" />
 </p>
+------------
+
+<h2 align="left">👨🏻‍💻 About Me:</h2>
+
+- 💻 I'm currently working on my BSc Thesis
+- 🌱 Currently learning PyTorch
 
 ------------
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zaaachos" alt="zaaachos" /> </p>
