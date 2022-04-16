@@ -9,13 +9,10 @@
 
 ------------
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zaaachos" alt="zaaachos" /> </p>
-
-[![](https://raw.githubusercontent.com/zaaachos/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/zaaachos/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/zaaachos/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/zaaachos/github-profile-summary-cards) [![](https://raw.githubusercontent.com/zaaachos/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/zaaachos/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/zaaachos/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/zaaachos/github-profile-summary-cards) [![](https://raw.githubusercontent.com/zaaachos/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/zaaachos/github-profile-summary-cards)
-
-
 <details>
   <summary> My Github Stats </summary>
     [![zaaachos Github Stats](https://github-readme-stats.vercel.app/api?username=zaaachos&show_icons=true&theme=tokyonight&hide=contribs,prs)]
 </details>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
