@@ -19,7 +19,7 @@
 
 <h2 align="left">📩 Reach me at:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-giorgos_zachariadis-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giorgos-zachariadis/)](https://www.linkedin.com/in/giorgos-zachariadis) [![Twitter Badge](https://img.shields.io/badge/-@zaaachos-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/zaaachos)](https://twitter.com/zaaachos) [![E-mail Badge](https://img.shields.io/badge/geor.zachariadis@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geor.zachariadis@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/giorgos_zachariadis-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giorgos-zachariadis/)](https://www.linkedin.com/in/giorgos-zachariadis) [![Twitter Badge](https://img.shields.io/badge/@zaaachos-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/zaaachos)](https://twitter.com/zaaachos) [![E-mail Badge](https://img.shields.io/badge/geor.zachariadis@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geor.zachariadis@gmail.com) 
 
 ------------
 
