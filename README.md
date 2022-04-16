@@ -26,7 +26,8 @@
 
 <h2 align="left">📩 Reach me at:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-giorgos-zachariadis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giorgos-zachariadis/)](https://www.linkedin.com/in/giorgos-zachariadis) [![Twitter Badge](https://img.shields.io/badge/-@zaaachos-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/zaaachos)](https://twitter.com/zaaachos) 
+[![Linkedin Badge](https://img.shields.io/badge/-giorgos_zachariadis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giorgos-zachariadis/)](https://www.linkedin.com/in/giorgos-zachariadis)
+[![Twitter Badge](https://img.shields.io/badge/-@zaaachos-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/zaaachos)](https://twitter.com/zaaachos) 
 
 
 
