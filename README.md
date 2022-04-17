@@ -65,9 +65,12 @@
 
 <details>
   <summary>Epcot Center</summary>
-  <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
+  
+  ![zaaachos' GitHub stats](https://github-readme-stats.vercel.app/api?username=zaaachos&show_icons=true&theme=tokyonight)
+  
 </details>
-![zaaachos' GitHub stats](https://github-readme-stats.vercel.app/api?username=zaaachos&show_icons=true&theme=tokyonight)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaaachos)](https://github.com/zaaachos/github-readme-stats)
 
