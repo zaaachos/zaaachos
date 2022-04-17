@@ -29,17 +29,15 @@
           <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
           <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
           <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-        <img alt="Pytorch" src="https://img.shields.io/badge/Pytroch-ff8533?style=for-the-badge&logo=pytorch&logoColor=ff0000" />
+          <img alt="Pytorch" src="https://img.shields.io/badge/Pytroch-ff8533?style=for-the-badge&logo=pytorch&logoColor=ff0000" />
           <img alt="scipy" src="https://img.shields.io/badge/scipy-003380?style=for-the-badge&logo=scipy&logoColor=66a3ff" />
-        <img alt="Matplotlib" src="https://img.shields.io/badge/matplotlib-596ca6?style=for-the-badge&logo=matplot&logoColor=ff0080" />
-        <img alt="scikit-learn" src="https://img.shields.io/badge/scikit_learn-b38f00?style=for-the-badge&logo=scikitlearn&logoColor=9999ff" />
-        <img alt="Selenium" src="https://img.shields.io/badge/selenium-003380?style=for-the-badge&logo=selenium&logoColor=b3b3b3" />
-        <img alt="Jsoup/BeautifulSoup" src="https://img.shields.io/badge/jsoup/bs4-ffccff?style=for-the-badge&logo=bs4&logoColor=800080" />
+          <img alt="Matplotlib" src="https://img.shields.io/badge/matplotlib-596ca6?style=for-the-badge&logo=matplot&logoColor=ff0080" />
+          <img alt="scikit-learn" src="https://img.shields.io/badge/scikit_learn-b38f00?style=for-the-badge&logo=scikitlearn&logoColor=9999ff" />
+          <img alt="Selenium" src="https://img.shields.io/badge/selenium-003380?style=for-the-badge&logo=selenium&logoColor=b3b3b3" />
+          <img alt="Jsoup/BeautifulSoup" src="https://img.shields.io/badge/jsoup/bs4-ffccff?style=for-the-badge&logo=bs4&logoColor=800080" />
           <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
           <img alt="Latex" src="https://img.shields.io/badge/LaTeX-593D88?style=for-the-badge&logo=latex&logoColor=white" />
           <img alt="MIPS32" src="https://img.shields.io/badge/MIPS32-593D88?style=for-the-badge&logo=MIPS32&logoColor=white" />
-       
-        
       </td>
     </tr>
     <tr>
@@ -49,8 +47,8 @@
           <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
           <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
           <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> 
-        <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-        <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+          <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+          <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
       </td>
     </tr>
   </tbody>
