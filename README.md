@@ -2,9 +2,8 @@
 <img src="https://komarev.com/ghpvc/?username=zaaachos" alt="zaaachos" /> 
 </h1>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
-
-<h4 I'm Giorgos, currently majoring in CS studies @ AUEB ( Department of Informatics ). I'm interested in AI/ML/DL/DS related projects with passion for computer vision. I enjoy developing Android applications, as well. </h4>
+<h3 align="left">👨🏻‍💻 About Me:</h2>
+<h4> I'm Giorgos, currently majoring in CS studies @ AUEB ( Department of Informatics ). I'm interested in AI/ML/DL/DS related projects with passion for computer vision. I enjoy developing Android applications, as well. </h4>
 
 <h3>🚀Skills</h3>
 
