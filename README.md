@@ -64,15 +64,16 @@
 ------------
 
 <details>
-  <summary>Epcot Center</summary>
+  <summary>📊 My GitHub stats</summary>
   
   ![zaaachos' GitHub stats](https://github-readme-stats.vercel.app/api?username=zaaachos&show_icons=true&theme=tokyonight)
   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaaachos)](https://github.com/zaaachos/github-readme-stats)
+
 </details>
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaaachos)](https://github.com/zaaachos/github-readme-stats)
 
 
 
