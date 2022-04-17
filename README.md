@@ -3,19 +3,16 @@
 
 <p>Welcome to my page! <img src="https://komarev.com/ghpvc/?username=zaaachos" alt="zaaachos" /> </p> </br> I'm Giorgos, currently majoring in CS studies @ AUEB ( Department of Informatics ). I'm interested in AI/ML/DL/DS related projects with passion for computer vision. I enjoy developing Android applications, as well. </p>
 <h3>Things I code with</h3>
-<p>
-  <table>
+
+<table>
   <tr> 
     <td> Proficient </td>
 
     <td> <img alt="Python" src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python" />
-          <img alt="Java" src="https://img.shields.io/badge/Java-critical?style=for-the-badge&logo=java" /> 
-    </td>
+          <img alt="Java" src="https://img.shields.io/badge/Java-critical?style=for-the-badge&logo=java" /> </td>
    </tr> 
 </table>
   
-  
-</p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
