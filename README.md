@@ -2,7 +2,7 @@
 
 
 <p>Welcome to my page! <img src="https://komarev.com/ghpvc/?username=zaaachos" alt="zaaachos" /> </p> </br> I'm Giorgos, currently majoring in CS studies @ AUEB ( Department of Informatics ). I'm interested in AI/ML/DL/DS related projects with passion for computer vision. I enjoy developing Android applications, as well. </p>
-<h3>Skills</h3>
+<h3>🚀Skills</h3>
 
 <table class="SkillTable">
   <thead>
@@ -24,6 +24,8 @@
           <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
           <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
           <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+          <img alt="Latex" src="https://img.shields.io/badge/LaTeX-593D88?style=for-the-badge&logo=latex&logoColor=white" />
+          <img alt="MIPS32" src="https://img.shields.io/badge/MIPS32-593D88?style=for-the-badge&logo=MIPS32&logoColor=white" />
       </td>
     </tr>
     <tr>
@@ -36,10 +38,6 @@
     </tr>
   </tbody>
 </table>
-
-
-
-  
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
