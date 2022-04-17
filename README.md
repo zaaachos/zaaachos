@@ -4,67 +4,22 @@
 <p>Welcome to my page! <img src="https://komarev.com/ghpvc/?username=zaaachos" alt="zaaachos" /> </p> </br> I'm Giorgos, currently majoring in CS studies @ AUEB ( Department of Informatics ). I'm interested in AI/ML/DL/DS related projects with passion for computer vision. I enjoy developing Android applications, as well. </p>
 <h3>Things I code with</h3>
 
-<table>
-  <tr> 
-    <td> Proficient </td>
-
-    <td> <img alt="Python" src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python" />
-          <img alt="Java" src="https://img.shields.io/badge/Java-critical?style=for-the-badge&logo=java" /> </td>
-   </tr> 
-</table>
-
-<!-- CSS Code: Place this code in the document's head (between the 'head' tags) -->
-<style>
-table.GeneratedTable {
-  width: 100%;
-  background-color: #ffffff;
-  border-collapse: collapse;
-  border-width: 2px;
-  border-color: #ffcc00;
-  border-style: solid;
-  color: #000000;
-}
-
-table.GeneratedTable td, table.GeneratedTable th {
-  border-width: 2px;
-  border-color: #ffcc00;
-  border-style: solid;
-  padding: 3px;
-}
-
-table.GeneratedTable thead {
-  background-color: #ffcc00;
-}
-</style>
-
-<!-- HTML Code: Place this code in the document's body (between the 'body' tags) where the table should appear -->
 <table class="GeneratedTable">
   <thead>
     <tr>
-      <th>Header</th>
-      <th>Header</th>
-      <th>Header</th>
+      <th>Skill Level</th>
+      <th>Programming Language</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Cell</td>
-      <td>Cell</td>
-      <td>Cell</td>
-    </tr>
-    <tr>
-      <td>Cell</td>
-      <td>Cell</td>
-      <td>Cell</td>
-    </tr>
-    <tr>
-      <td>Cell</td>
-      <td>Cell</td>
-      <td>Cell</td>
+      <td>Proficient</td>
+      <td><img alt="Python" src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python" />
+          <img alt="Java" src="https://img.shields.io/badge/Java-critical?style=for-the-badge&logo=java" /></td>
     </tr>
   </tbody>
 </table>
-<!-- Codes by Quackit.com -->
+
 
 
   
