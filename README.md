@@ -4,11 +4,19 @@
 <p>Welcome to my page! <img src="https://komarev.com/ghpvc/?username=zaaachos" alt="zaaachos" /> </p> </br> I'm Giorgos, currently majoring in CS studies @ AUEB ( Department of Informatics ). I'm interested in AI/ML/DL/DS related projects with passion for computer vision. I enjoy developing Android applications, as well. </p>
 <h3>Things I code with</h3>
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-critical?style=for-the-badge&logo=java" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-blueviolet?style=for-the-badge&logo=kotlin" />
+  <table>
+  <tr>
+    <td> <img alt="Python" src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-critical?style=for-the-badge&logo=java" /> </td>
+
+    <td><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-blueviolet?style=for-the-badge&logo=kotlin" />
   <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-red?style=for-the-badge&logo=tensorflow" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-orange?style=for-the-badge&logo=pytorch" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-orange?style=for-the-badge&logo=pytorch" /></td>
+   </tr> 
+  </tr>
+</table>
+  
+  
 </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
