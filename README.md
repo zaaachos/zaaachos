@@ -1,7 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" width="30"/> Hey visitor! Welcome to my page!</h1>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
-<h4 <img width="30" src="https://komarev.com/ghpvc/?username=zaaachos" alt="zaaachos" /> I'm Giorgos, currently majoring in CS studies @ AUEB ( Department of Informatics ). I'm interested in AI/ML/DL/DS related projects with passion for computer vision. I enjoy developing Android applications, as well. </h4>
+<img width="30" src="https://komarev.com/ghpvc/?username=zaaachos" alt="zaaachos" /> 
+<h4 I'm Giorgos, currently majoring in CS studies @ AUEB ( Department of Informatics ). I'm interested in AI/ML/DL/DS related projects with passion for computer vision. I enjoy developing Android applications, as well. </h4>
 
 <h3>🚀Skills</h3>
 
