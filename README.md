@@ -64,7 +64,7 @@
 ------------
 
 <details>
-  <summary>📊 My GitHub stats</summary>
+  <summary> <big> 📊 My GitHub stats </big> </summary>
   
   ![zaaachos' GitHub stats](https://github-readme-stats.vercel.app/api?username=zaaachos&show_icons=true&theme=tokyonight)
   
