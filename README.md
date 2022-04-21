@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="left">👨🏻‍💻 About Me:</h2>
-<h4> I'm Giorgos, currently majoring in CS studies @ AUEB ( Department of Informatics ). I'm interested in AI/ML/DL/DS related projects with passion for computer vision. I enjoy developing Android applications, as well. </h4>
+<h4> I'm majoring in CS studies @ AUEB ( Department of Informatics ). I'm currently working on my Thesis project (Diagnostic Captioning) on Biomedical datasets, using Deep Learning models. I'm interested in AI/ML/DL/DS related projects with a passion for computer vision. I enjoy developing Android applications, as well. I am experienced working both as individual and as a team member in many academic projects, with top results. In my leisure time, I like testing my self in some coding challenges and making new projects. </h4>
 
 <h3>🚀Skills</h3>
 
