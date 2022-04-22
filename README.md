@@ -57,7 +57,7 @@
   </tbody>
 </table>
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=zaaachos"/>
+<!-- <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=zaaachos"/> -->
 
 <h2 align="left">📩 Reach me at:</h2>
 
