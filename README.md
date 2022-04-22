@@ -5,8 +5,6 @@
 <h3 align="left">👨🏻‍💻 About Me:</h2>
 <h4> I'm majoring in CS studies @ AUEB ( Department of Informatics ). I'm currently working on my Thesis project (Diagnostic Captioning) on Biomedical datasets, using Deep Learning models. I'm interested in AI/ML/DL/DS related projects with a passion for computer vision. I enjoy developing Android applications, as well. I have experience working as an individual and as a member of a team on numerous academic projects, with top results. In my leisure time, I like testing my self in some coding challenges and making new projects. </h4>
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=zaaachos" width="20"/>
-
 <h3>🚀Skills</h3>
 
 <table class="SkillTable">
@@ -58,6 +56,8 @@
     </tr>
   </tbody>
 </table>
+
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=zaaachos"/>
 
 <h2 align="left">📩 Reach me at:</h2>
 
