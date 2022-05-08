@@ -24,6 +24,7 @@
           <img alt="Git" src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white" />
           <img alt="Android Studio" src="https://img.shields.io/badge/android_studio-596ca6?style=for-the-badge&logo=androidstudio&logoColor=00cc66" />
           <img alt="Tensorflow" src="https://img.shields.io/badge/tensorflow-red?style=for-the-badge&logo=tensorflow&logoColor=ff6600" />
+          <img alt="scikit-learn" src="https://img.shields.io/badge/scikit_learn-b38f00?style=for-the-badge&logo=scikitlearn&logoColor=9999ff" />
       </td>
     </tr>
     <tr>
@@ -35,7 +36,6 @@
           <img alt="Pytorch" src="https://img.shields.io/badge/Pytroch-ff8533?style=for-the-badge&logo=pytorch&logoColor=ff0000" />
           <img alt="scipy" src="https://img.shields.io/badge/scipy-003380?style=for-the-badge&logo=scipy&logoColor=66a3ff" />
           <img alt="Matplotlib" src="https://img.shields.io/badge/matplotlib-596ca6?style=for-the-badge&logo=matplot&logoColor=ff0080" />
-          <img alt="scikit-learn" src="https://img.shields.io/badge/scikit_learn-b38f00?style=for-the-badge&logo=scikitlearn&logoColor=9999ff" />
           <img alt="Selenium" src="https://img.shields.io/badge/selenium-003380?style=for-the-badge&logo=selenium&logoColor=b3b3b3" />
           <img alt="Jsoup/BeautifulSoup" src="https://img.shields.io/badge/jsoup/bs4-ffccff?style=for-the-badge&logo=bs4&logoColor=800080" />
           <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
