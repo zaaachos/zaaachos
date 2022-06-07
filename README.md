@@ -21,7 +21,6 @@
           <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
           <img alt="NumPy" src="https://img.shields.io/badge/NumPy-0040ff?style=for-the-badge&logo=numpy&logoColor=white" />
           <img alt="Pandas" src="https://img.shields.io/badge/pandas-00ff00?style=for-the-badge&logo=pandas&logoColor=ff0080" />
-          <img alt="Git" src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white" />
           <img alt="Android Studio" src="https://img.shields.io/badge/android_studio-596ca6?style=for-the-badge&logo=androidstudio&logoColor=00cc66" />
           <img alt="Tensorflow" src="https://img.shields.io/badge/tensorflow-red?style=for-the-badge&logo=tensorflow&logoColor=ff6600" />
           <img alt="scikit-learn" src="https://img.shields.io/badge/scikit_learn-b38f00?style=for-the-badge&logo=scikitlearn&logoColor=9999ff" />
@@ -34,6 +33,7 @@
           <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
           <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
           <img alt="Pytorch" src="https://img.shields.io/badge/Pytroch-ff8533?style=for-the-badge&logo=pytorch&logoColor=ff0000" />
+         <img alt="Git" src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white" />
           <img alt="scipy" src="https://img.shields.io/badge/scipy-003380?style=for-the-badge&logo=scipy&logoColor=66a3ff" />
           <img alt="Matplotlib" src="https://img.shields.io/badge/matplotlib-596ca6?style=for-the-badge&logo=matplot&logoColor=ff0080" />
           <img alt="Selenium" src="https://img.shields.io/badge/selenium-003380?style=for-the-badge&logo=selenium&logoColor=b3b3b3" />
