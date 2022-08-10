@@ -5,7 +5,7 @@
 <h3 align="left">👨🏻‍💻 About Me:</h3>
 
 I'm majoring in CS studies @ AUEB ( Department of Informatics ). 
-I'm currently working as a Data Science and ML intern in [Augmenta](https://www.augmenta.ag/)
+I'm currently working as a Data Science and ML intern @ [Augmenta](https://www.augmenta.ag/)
 <br>
 In addition, I work on my thesis (Diagnostic Captioning), in which I conduct a reasearch on several Biomedical datasets, using Deep Learning models. I'm interested in AI/ML/DL/DS related projects with a passion for computer vision. I enjoy developing Android applications, too. 
 
