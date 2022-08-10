@@ -42,6 +42,7 @@ I have experience working on my own and as a member of a team on numerous academ
          <img alt="Git" src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white" />
           <img alt="scipy" src="https://img.shields.io/badge/scipy-003380?style=for-the-badge&logo=scipy&logoColor=66a3ff" />
           <img alt="Matplotlib" src="https://img.shields.io/badge/matplotlib-596ca6?style=for-the-badge&logo=matplot&logoColor=ff0080" />
+        <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
           <img alt="Selenium" src="https://img.shields.io/badge/selenium-003380?style=for-the-badge&logo=selenium&logoColor=b3b3b3" />
           <img alt="Jsoup/BeautifulSoup" src="https://img.shields.io/badge/jsoup/bs4-ffccff?style=for-the-badge&logo=bs4&logoColor=800080" />
           <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
@@ -53,7 +54,6 @@ I have experience working on my own and as a member of a team on numerous academ
       <td>Familiar</td>
       <td><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
           <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-          <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
           <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
           <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> 
           <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
