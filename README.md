@@ -6,7 +6,7 @@
 
 🎓BSc in Computer Science @ AUEB ( Department of Informatics ).
 <br>
-During my senior year I conducted a research on several Biomedical datasets, using Deep Learning models. The thesis (Diagnostic Captioning) for this research is provided at my first pin repo. This thesis also concerns my participation with the AUEB NLP Group at 2022 ImageCLEFmedical campaign, being the main driver for the Caption Prediction Task. Our paper can be found [here](http://ceur-ws.org/Vol-3180/paper-101.pdf)
+During my senior year I conducted a research on several Biomedical datasets, using Deep Learning models. The thesis (Diagnostic Captioning) for this research is provided at my first pinned repo. This thesis also concerns my participation with the AUEB NLP Group at 2022 ImageCLEFmedical campaign, being the main driver for the Caption Prediction Task. Our paper can be found [here](http://ceur-ws.org/Vol-3180/paper-101.pdf)
 I'm currently working as a Data Science and ML intern @ [Augmenta](https://www.augmenta.ag/)
 <br>
 I'm interested in AI/ML/DL/DS related projects with a passion for computer vision. I enjoy developing Android applications, too. 
