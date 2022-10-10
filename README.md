@@ -75,7 +75,7 @@ I'm currently working as a Data Science and ML intern @ [Augmenta](https://www.a
 <details>
   <summary>📊 GitHub stats </summary>
   
-  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=zaaachos&badges=2&show-avatar=false&style=--header-bg-color:#000;--border radius:10px"/>
+  
   
   ![zaaachos' GitHub stats](https://github-readme-stats.vercel.app/api?username=zaaachos&show_icons=true&theme=tokyonight)
   
