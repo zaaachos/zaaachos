@@ -9,9 +9,9 @@ My thesis paper can also be found [here](http://nlp.cs.aueb.gr/theses/g_zacharia
 <br>
 Code enthusiast, open to learning new technologies, and committed to completing all tasks given with diligence and hard work. I'm interested in AI/ML/DL/DS related projects with a passion for computer vision. 
 <br>
-<br>
+<!-- <br>
 I'm currently working as a Data Science and ML intern @ [Augmenta](https://www.augmenta.ag/)
-<br>
+<br> -->
 
 <h3>🚀Skills</h3>
 
