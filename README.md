@@ -9,9 +9,6 @@ My thesis paper can also be found [here](http://nlp.cs.aueb.gr/theses/g_zacharia
 <br>
 Code enthusiast, open to learning new technologies, and committed to completing all tasks given with diligence and hard work. I'm interested in AI/ML/DL/DS related projects with a passion for computer vision. 
 <br>
-<!-- <br>
-I'm currently working as a Data Science and ML intern @ [Augmenta](https://www.augmenta.ag/)
-<br> -->
 
 <h3>🚀Skills</h3>
 
@@ -69,7 +66,7 @@ I'm currently working as a Data Science and ML intern @ [Augmenta](https://www.a
 
 <h2 align="left">📩 Reach me at:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/giorgos_zachariadis-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giorgos-zachariadis/)](https://www.linkedin.com/in/giorgos-zachariadis) [![Twitter Badge](https://img.shields.io/badge/@zaaachos-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/zaaachos)](https://twitter.com/zaaachos) [![E-mail Badge](https://img.shields.io/badge/zachariadisg@yahoo.com-430297?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:zachariadisg@yahoo.com) 
+[![Linkedin Badge](https://img.shields.io/badge/giorgos_zachariadis-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zachariadisg/)](https://www.linkedin.com/in/zachariadisg) [![Twitter Badge](https://img.shields.io/badge/@zaaachos-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/zaaachos)](https://twitter.com/zaaachos) [![E-mail Badge](https://img.shields.io/badge/zachariadisg@yahoo.com-430297?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:zachariadisg@yahoo.com) 
 
 ------------
 
