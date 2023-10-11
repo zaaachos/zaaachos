@@ -4,11 +4,9 @@
 
 <h3 align="left">👨🏻‍💻 About Me:</h3>
 
-🎓 BSc in Computer Science @ [Athens University of Economics and Business](https://aueb.gr/), with a great background in machine learning and deep learning fields. During my senior year, I conducted research (i.e., a thesis) on medical image captioning (diagnostic captioning), using Deep Learning-based models. This thesis also concerns my participation with the AUEB NLP Group at 2022 ImageCLEFmedical campaign, being the main driver for the Caption Prediction Task. Out of 10 teams, my implemented systems ranked **2nd** based on the primary evaluation metric and **1st** based on the secondary metric. Our paper can be found [here](http://ceur-ws.org/Vol-3180/paper-101.pdf).
-My thesis paper can also be found [here](http://nlp.cs.aueb.gr/theses/g_zachariadis_bsc_thesis.pdf)
-<br>
-Code enthusiast, open to learning new technologies, and committed to completing all tasks given with diligence and hard work. I'm interested in AI/ML/DL/DS related projects with a passion for computer vision. 
-<br>
+Highly motivated Software and Machine Learning Engineer, driven by a passion for coding, open to learning new technologies, and committed to completing all tasks given with diligence and hard work. My dedication to the latter has been demonstrated throughout my academic journey, research endeavours, and work experience. My keen interest lies in AI, Machine Learning, and Deep Learning, with a particular focus on Computer Vision.
+
+In my senior year, I focused my research on medical image captioning using Deep Learning approaches and models. This work was a part of my thesis and also tied to my involvement in the 2022 ImageCLEFmedical campaign, where I led the Caption Prediction Task. I'm proud to share that my implemented systems ranked 2nd out of 10 teams based on the primary evaluation metric and 1st based on the secondary metric.
 
 <h3>🚀Skills</h3>
 
