@@ -64,7 +64,7 @@ In my senior year, I focused my research on medical image captioning using Deep 
 
 <h2 align="left">📩 Reach me at:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/giorgos_zachariadis-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gzachariadis/)](https://www.linkedin.com/in/gzachariadis) [![Twitter Badge](https://img.shields.io/badge/@zaaachos-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/zaaachos)](https://twitter.com/zaaachos) [![E-mail Badge](https://img.shields.io/badge/zachariadisg@yahoo.com-430297?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:zachariadisg@yahoo.com) 
+[![Linkedin Badge](https://img.shields.io/badge/giorgos_zachariadis-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gzachariadis/)](https://www.linkedin.com/in/gzachariadis) [![E-mail Badge](https://img.shields.io/badge/zachariadisg@yahoo.com-430297?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:zachariadisg@yahoo.com) 
 
 ------------
 
