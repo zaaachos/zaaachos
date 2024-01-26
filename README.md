@@ -52,7 +52,7 @@ In my senior year, I focused my research on medical image captioning using Deep 
        <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 <a href="mailto:zachariadisg@yahoo.com">
-       <img src="https://skillicons.dev/icons?i=gmail"/>
+<img alt="Yahoo mail" width="50" src="https://www.freeiconspng.com/thumbs/yahoo-icon/yahoo-mail-icon-30.png" />
 </a>
 
 ------------
