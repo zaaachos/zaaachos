@@ -8,7 +8,7 @@
 
 Results-driven Software and Machine Learning Engineer with 2+ years of hands-on experience crafting data systems across diverse industries. Passionate about coding, open to new technologies, and committed to completing all tasks given with diligence and hard work. Proven track record in academia and professional level. Seeking junior-level data science opportunities to apply analytical skills and contribute to innovative solutions.
 
-In my senior year, I focused my research on medical image captioning using Deep Learning approaches and models. This work was a part of my thesis and also tied to my involvement in the 2022 ImageCLEFmedical campaign, where I led the Caption Prediction Task. I'm proud to share that my implemented systems ranked 2nd out of 10 teams based on the primary evaluation metric and 1st based on the secondary metric.
+In my senior year, I focused my research on Medical Image Captioning using Deep Learning and NLP approaches. This work was a part of my Thesis, and also tied to my involvement in the 2022 ImageCLEFmedical campaign, where I led the Caption Prediction Task. I'm proud to share that my implemented systems ranked 1st and 2nd out of 10 teams based on the main evaluation metrics.
 
 <h3>🚀Skills</h3>
 
