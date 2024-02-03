@@ -8,7 +8,14 @@
 
 Results-driven Software and Machine Learning Engineer with 2+ years of hands-on experience crafting data systems across diverse industries. Passionate about coding, open to new technologies, and committed to completing all tasks given with diligence and hard work. Proven track record in academia and professional level. Seeking junior-level data science opportunities to apply analytical skills and contribute to innovative solutions.
 
-In my senior year, I focused my research on Medical Image Captioning using Deep Learning and NLP approaches. This work was a part of my Thesis, and also tied to my involvement in the 2022 ImageCLEFmedical campaign, where I led the Caption Prediction Task. I'm proud to share that my implemented systems ranked 1st and 2nd out of 10 teams based on the main evaluation metrics.
+In my senior year, I conducted research on Medical Image Captioning using uni-modal, cross-modal, multi-modal Deep Learning approaches such as CNNs, Transformers, BERT-based models, RNNs, and Neural Retrieval algorithms. This work was a part of my Thesis, and also tied to my involvement in the 2022 ImageCLEFmedical campaign, where I led the Caption Prediction Task. I'm proud to share that my implemented systems ranked **1st** and **2nd** out of 10 teams based on the main evaluation metrics. You can read our publication *AUEB NLP Group at ImageCLEFmedical Caption 2022, Proceedings of the CLEF 2022* in this [link](https://ceur-ws.org/Vol-3180/paper-101.pdf). If you use or extend our work, please cite our paper:
+```
+@article{charalampakos2022aueb,
+  title={Aueb nlp group at imageclefmedical caption 2022},
+  author={Charalampakos, Foivos and Zachariadis, Giorgos and Pavlopoulos, John and Karatzas, Vasilis and Trakas, Christoforos and Androutsopoulos, Ion},
+  year={2022}
+}
+```
 
 <h3>🚀Skills</h3>
 
