@@ -1,4 +1,4 @@
-<div style="text-align:center">
+<div style="text-align:center; width: 50; margin: 0 auto;">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F79A80&background=7EFF2500&center=true&vCenter=true&random=false&width=435&lines=Hi+there!;I'm+Giorgos+Zachariadis.;A+passionate+SW+and+ML+Engineer+🤗;Welcome+to+my+Github+profile+🖐" alt="Typing SVG" /></a>
   <img align="right" src="https://komarev.com/ghpvc/?username=zaaachos" alt="zaaachos" />
 </div>
