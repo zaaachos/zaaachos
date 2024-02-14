@@ -1,10 +1,12 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F79A80&background=7EFF2500&center=true&vCenter=true&random=false&width=435&lines=Hi+there!;I'm+Giorgos+Zachariadis.;A+passionate+SW+and+ML+Engineer+fueled+by+nothing+but+the+finest+brews+of+coffee+☕️;Welcome+to+my+Github+profile+🖐" alt="Typing SVG" /></a>
-<img align="right" src="https://komarev.com/ghpvc/?username=zaaachos" alt="zaaachos" />
+<div style="text-align:center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F79A80&background=7EFF2500&center=true&vCenter=true&random=false&width=435&lines=Hi+there!;I'm+Giorgos+Zachariadis.;A+passionate+SW+and+ML+Engineer+🤗;Welcome+to+my+Github+profile+🖐" alt="Typing SVG" /></a>
+  <img align="right" src="https://komarev.com/ghpvc/?username=zaaachos" alt="zaaachos" />
+</div>
 
 
 <h3 align="left">👨🏻‍💻 About Me:</h3>
 
-Results-driven Software and Machine Learning Engineer with 2+ years of hands-on experience crafting data systems across diverse industries. Passionate about coding, open to new technologies, and committed to completing all tasks given with diligence and hard work. Proven track record in academia and professional level. Seeking junior-level data science opportunities to apply analytical skills and contribute to innovative solutions.
+Results-driven Software and Machine Learning Engineer with 2+ years of hands-on experience crafting data systems across diverse industries, fueled by nothing but the finest brews of coffee ☕️. Passionate about coding, open to new technologies, and committed to completing all tasks given with diligence and hard work. Proven track record in academia and professional level. Seeking junior-level data science opportunities to apply analytical skills and contribute to innovative solutions.
 
 In my senior year, I conducted research on Medical Image Captioning using uni-modal, cross-modal, multi-modal Deep Learning approaches such as CNNs, Transformers, BERT-based models, RNNs, and Neural Retrieval algorithms. This work was a part of my Thesis, and also tied to my involvement in the 2022 ImageCLEFmedical campaign, where I led the Caption Prediction Task. I'm proud to share that my implemented systems ranked **1st** and **2nd** out of 10 teams based on the main evaluation metrics. You can read our publication ***"AUEB NLP Group at ImageCLEFmedical Caption 2022", Proceedings of the CLEF 2022*** at this [link](https://ceur-ws.org/Vol-3180/paper-101.pdf). If you use or extend our work, please cite our paper:
 ```
