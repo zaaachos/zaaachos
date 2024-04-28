@@ -58,8 +58,8 @@ In my senior year, I conducted research on Medical Image Captioning using uni-mo
 <a href="https://www.linkedin.com/in/gzachariadis">
        <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-<a href="mailto:zachariadisg@yahoo.com">
-<img alt="Yahoo mail" width="50" src="https://www.freeiconspng.com/thumbs/yahoo-icon/yahoo-mail-icon-30.png" />
+<a href="mailto:zachariadis.gs@gmail.com">
+<img alt="Gmail" width="50" src="https://www.freeiconspng.com/uploads/gmail-icon-5.png" />
 </a>
 
 ------------
