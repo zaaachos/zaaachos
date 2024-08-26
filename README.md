@@ -29,15 +29,14 @@ In my senior year, I conducted research on Medical Image Captioning using uni-mo
 
   <h4 align="center"> Tools </h4>
   <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=git,github,gitlab,androidstudio,mysql,postgresql,mongodb,docker,wordpress,heroku"/>
+       <img src="https://skillicons.dev/icons?i=git,github,azure,docker,bash,postman,androidstudio,mysql,postgresql,mongodb,wordpress,heroku"/>
       <img alt="Oracle SQL Developer" width="50" src="https://github.com/zaaachos/zaaachos/assets/47610789/3a91d14e-9804-46b3-bcbe-0b0d8489d1ed" />
     </a>
 
    <h4 align="center"> Frameworks & Libs </h4>
    <img alt="Primefaces" width="50" src="https://www.primefaces.org/presskit/primeng-logo.png" />
-   <img alt="Primefaces" width="50" src="https://pbs.twimg.com/profile_images/705941104/rptlab_400x400.png" />
   <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=spring,flask,django,selenium"/>
+       <img src="https://skillicons.dev/icons?i=spring,django,flask,fastapi,regex,selenium"/>
     </a>
   
 </div>
