@@ -6,66 +6,23 @@
 
 <h3 align="left">👨🏻‍💻 About Me:</h3>
 
-Results-driven Machine Learning Engineer with 2+ years of hands-on experience crafting data systems across diverse industries, fueled by nothing but the finest brews of coffee ☕️. Passionate about coding, open to new technologies, and committed to completing all tasks given with diligence and hard work. Proven track record in academia and professional level. 
+I'm Giorgos Zachariadis, a results-driven Machine Learning & AI Engineer with 2+ years of experience developing data-driven systems across diverse industries including Agronomy, Electrical Energy Management, and Biomedicine.
 
-In my senior year, I conducted research on Medical Image Captioning using uni-modal, cross-modal, multi-modal Deep Learning approaches such as CNNs, Transformers, BERT-based models, RNNs, and Neural Retrieval algorithms. This work was a part of my Thesis, and also tied to my involvement in the 2022 ImageCLEFmedical campaign, where I led the Caption Prediction Task. I'm pleased to report my implemented systems ranked **1st** and **2nd** out of 10 teams based on the main evaluation metrics. You can read our publication ***"AUEB NLP Group at ImageCLEFmedical Caption 2022", Proceedings of the CLEF 2022*** at this [link](https://ceur-ws.org/Vol-3180/paper-101.pdf).
+My work blends practical engineering with a strong research background. During my academic years, I focused on Medical Image Captioning, applying advanced deep learning techniques such as CNNs, Transformers, BERT-based models, and RNNs. As part of the ImageCLEFmedical 2022 competition, I led the Caption Prediction Task, and my systems ranked 1st and 2nd out of 10 teams. This work was also published in the CLEF 2022 proceedings.[[publication](https://ceur-ws.org/Vol-3180/paper-101.pdf)].
 
-<h3>🚀Skills</h3>
+Having an extensive experience with programming languages such as Python and Java, which I've used throughout the professional and academic career for product development, conducting analyses, and applying statistical methodologies and machine learning models. I also have experience with technologies such as SQL, Docker, Django, PyTorch, TensorFlow, and scikit-learn, as well as managing resources and deploying applications in cloud environments like Microsoft Azure and Azure DevOps. Additionally, I've developed chatbots using NLP and LLM/GenAI technologies.
 
-<div align="center">
-  <h4 align="center"> Programming </h4>
-  <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=python,java,html,kotlin,r,css,cpp,js,latex" />
-    </a>
 
-  <h4 align="center"> Machine Learning & Data Science </h4>
-    <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,anaconda"/>
-    </a>
-    <img alt="NumPy" width="50" src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" />
-    <img alt="Pandas" width="50" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" />
-    <img alt="matplotlib" width="50" src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" />
-    <img alt="Scipy" width="50" src="https://github.com/valohai/ml-logos/blob/master/scipy.svg" />
-
-  <h4 align="center"> Tools </h4>
-  <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=git,github,azure,docker,bash,postman,androidstudio,mysql,postgresql,mongodb,wordpress,heroku"/>
-      <img alt="Oracle SQL Developer" width="50" src="https://github.com/zaaachos/zaaachos/assets/47610789/3a91d14e-9804-46b3-bcbe-0b0d8489d1ed" />
-    </a>
-
-   <h4 align="center"> Frameworks & Libs </h4>
-   <img alt="Primefaces" width="50" src="https://www.primefaces.org/presskit/primeng-logo.png" />
-  <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=spring,django,flask,fastapi,regex,selenium"/>
-    </a>
-  
-</div>
+# 💻 Tech Stack:
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=plastic&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=plastic&logo=jinja&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=plastic&logo=rabbitmq&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=plastic&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=plastic&logo=openapiinitiative&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=plastic&logo=opentelemetry&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
 
 
 
 <!-- <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=zaaachos"/> -->
 
-<h2 align="left">📩 Reach me at:</h2>
-<a href="https://www.linkedin.com/in/gzachariadis">
-       <img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-<a href="mailto:zachariadis.gs@gmail.com">
-<img alt="Gmail" width="50" src="https://www.freeiconspng.com/uploads/gmail-icon-5.png" />
-</a>
-
-------------
-
-<details>
-  <summary>📊 GitHub stats </summary>
-  
-  
-  
-  ![zaaachos' GitHub stats](https://github-readme-stats.vercel.app/api?username=zaaachos&show_icons=true&theme=tokyonight)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaaachos)](https://github.com/zaaachos/github-readme-stats)
-
-</details>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zachariadisgs) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14196193) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zachooos) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zachariadis.gs@gmail.com) 
 
 
 
