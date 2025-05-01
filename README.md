@@ -9,7 +9,6 @@ Professionally, I have extensive experience solving complex problems using artif
 In addition to AI, I bring solid expertise in software development with Python and Java, always adhering to clean architecture principles, design patterns, and best practices to deliver scalable, maintainable, and reliable systems. My work spans product development, statistical analysis, and cloud-native deployments using Microsoft Azure and Azure DevOps.
 
 I also have hands-on experience with modern development tools and platforms, including Docker for containerization, FastAPI and Django for REST APIs development, and SQL for efficient data management — all executed with a focus on code clarity, robustness, and software craftsmanship.
-Sure thing, bro — here’s your **original list, structured into clean categories** using the exact items you gave me (same names, same order, just grouped for clarity):  
 
 ---
 
